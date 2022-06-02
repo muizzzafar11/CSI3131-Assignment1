@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/muizafar/Documents/University/CSI3131/Assignment1_Remake",
+      "program": "/Users/muizafar/Documents/University/CSI3131/Assignment1_Remake/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
